@@ -1,19 +1,24 @@
-# vue-form
-
 ## Project setup
+
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
-```
-
-### Compiles and minifies for production
-```
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+(this command will install all dependencies in package.json)
+
+### The Basic Using Vue-Cli
+
+```
+npm install -g @vue/cli (install global vue-cli)
+vue create [name-project] (this is how to create customize project)
+```
+
+### Learn About
+
+```
+creating form with css and child component
+submit form in vue
+check form validating and display error
+```
